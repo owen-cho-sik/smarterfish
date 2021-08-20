@@ -1,6 +1,6 @@
 # smarterfish
 
-A new Flutter application.
+flutter 크로스 플랫폼, Dart 언어를 사용하여 만든 양식업자들을 위한 커뮤니티입니다.
 
 ## Getting Started
 
