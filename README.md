@@ -1,6 +1,7 @@
 # smarterfish
 
-flutter 크로스 플랫폼, Dart 언어를 사용하여 만든 양식업자들을 위한 커뮤니티입니다.
+flutter 크로스 플랫폼, Dart 언어를 사용하여
+개발한 양식업자분들의 정보 교환을 위한 커뮤니티 어플리케이션입니다.
 
 ## Getting Started
 
